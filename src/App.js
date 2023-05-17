@@ -1,5 +1,5 @@
-import Footer from './Images/Widgets/Footer';
-import Weather from './Images/Widgets/Weather';
+import Footer from './Widgets/Footer';
+import Weather from './Widgets/Weather';
 
 function App() {
   return (
